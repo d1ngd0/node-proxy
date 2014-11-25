@@ -1,0 +1,5 @@
+[
+  { "target_host": "example.com", "inport": 8080, "outport": 80 },
+  { "target_host": "test1.example.com", "inport": 8080, "outport": 80 },
+  { "target_host": "test2.example.com", "inport": 3000, "outport": 32400 }
+]
